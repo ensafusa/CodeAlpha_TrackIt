@@ -25,7 +25,7 @@ Ensure you have Python 3.9+ installed.
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/ensafusa/CodeAlpha_TrackIt.git
 
 # Install dependencies
 pip install ultralytics opencv-python
